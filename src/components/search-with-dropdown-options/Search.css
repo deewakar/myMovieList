@@ -1,0 +1,30 @@
+.searchform{
+    margin: 50px;
+    margin-left: 30%;
+    padding: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.custom-select {
+    border: solid darkblue 1px;
+}
+select {
+    width: 150px;
+    height: 42px;
+    border: none;
+    background-color: #075d98;
+    color: white;
+    padding: 5px;
+}
+
+#searchinput {
+
+    background-image: url('images/searchicon.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    width: 250px;
+    padding: 12px 20Px 12px 40px;
+    background-size: contain;
+}
+
