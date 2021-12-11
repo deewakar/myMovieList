@@ -17,9 +17,9 @@ const Searchbar = (props) => {
 
 
   const searchFocus = (e) => {
-    const options = {'actor': 'e.g. "Jack Nicholson" or "tom hanks"',
-                     'director': 'e.g. "George Miller" or "peter weir"',
-                     'genre': 'e.g. "Horror" or "comedy"',
+    const options = {'actor': 'e.g. "Tom Hanks"',
+                     'director': 'e.g. "George Miller"',
+                     'genre': 'e.g. "Horror"',
                      'daterange': 'e.g. "1952-2002"',
                     };
 
